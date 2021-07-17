@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Processador Ryzen 5",
+      "price": 1299.99
+    },
+    {
+      "id": 2,
+      "name": "HD Seagate 1TB",
+      "price": 329.99
+    },
+    {
+      "id": 3,
+      "name": "Galaxy A70s",
+      "price": "2099.99"
+    },
+    {
+      "name": "Light Platinum",
+      "price": 1294.33,
+      "id": 4
+    },
+    {
+      "name": "Light Platinum",
+      "price": 1294.33,
+      "id": 6
+    },
+    {
+      "name": "Pop Smoke",
+      "price": "999.99",
+      "id": 7
+    },
+    {
+      "name": "Pop Smoke",
+      "price": "999.99",
+      "id": 8
+    },
+    {
+      "name": "Colar Alix",
+      "price": "8350.00",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "name": "Félix",
+      "price": "777"
+    }
+  ]
+}
